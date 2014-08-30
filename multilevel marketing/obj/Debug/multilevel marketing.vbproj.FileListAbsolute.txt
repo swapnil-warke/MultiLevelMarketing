@@ -1,0 +1,138 @@
+G:\ganesh vb\multilevel marketing\multilevel marketing\bin\Debug\multilevel marketing.exe
+G:\ganesh vb\multilevel marketing\multilevel marketing\bin\Debug\multilevel marketing.pdb
+G:\ganesh vb\multilevel marketing\multilevel marketing\bin\Debug\multilevel marketing.xml
+G:\ganesh vb\multilevel marketing\multilevel marketing\obj\Debug\ResolveAssemblyReference.cache
+G:\ganesh vb\multilevel marketing\multilevel marketing\obj\Debug\multilevel_marketing.Form1.resources
+G:\ganesh vb\multilevel marketing\multilevel marketing\obj\Debug\multilevel_marketing.Resources.resources
+G:\ganesh vb\multilevel marketing\multilevel marketing\obj\Debug\multilevel marketing.vbproj.GenerateResource.Cache
+G:\ganesh vb\multilevel marketing\multilevel marketing\obj\Debug\multilevel marketing.exe
+G:\ganesh vb\multilevel marketing\multilevel marketing\obj\Debug\multilevel marketing.xml
+G:\ganesh vb\multilevel marketing\multilevel marketing\obj\Debug\multilevel marketing.pdb
+G:\ganesh vb\multilevel marketing\multilevel marketing\obj\Debug\multilevel_marketing.Form2.resources
+G:\ganesh vb\multilevel marketing\multilevel marketing\obj\Debug\multilevel_marketing.frm_show.resources
+G:\ganesh vb\multilevel marketing\multilevel marketing\obj\Debug\multilevel_marketing.add_admin.resources
+G:\ganesh vb\multilevel marketing\multilevel marketing\obj\Debug\multilevel_marketing.update_admin.resources
+G:\ganesh vb\multilevel marketing\multilevel marketing\obj\Debug\multilevel_marketing.cust_pay_info.resources
+G:\ganesh vb\multilevel marketing\multilevel marketing\obj\Debug\multilevel_marketing.set_values.resources
+G:\ganesh vb\multilevel marketing\multilevel marketing\obj\Debug\multilevel_marketing.SplashScreen1.resources
+G:\ganesh vb\multilevel marketing\multilevel marketing\obj\Debug\multilevel_marketing.cust_info.resources
+G:\ganesh vb\multilevel marketing\multilevel marketing\obj\Debug\multilevel_marketing.About_mlm.resources
+G:\ganesh vb\multilevel marketing\multilevel marketing\obj\Debug\multilevel_marketing.Form4.resources
+G:\ganesh vb\multilevel marketing\multilevel marketing\obj\Debug\multilevel_marketing.Form7.resources
+H:\Project\multilevel marketing\multilevel marketing\obj\Debug\multilevel marketing.exe
+H:\Project\multilevel marketing\multilevel marketing\obj\Debug\multilevel marketing.xml
+H:\Project\multilevel marketing\multilevel marketing\obj\Debug\multilevel marketing.pdb
+H:\Project\multilevel marketing\multilevel marketing\bin\Debug\multilevel marketing.exe
+H:\Project\multilevel marketing\multilevel marketing\bin\Debug\multilevel marketing.pdb
+H:\Project\multilevel marketing\multilevel marketing\bin\Debug\multilevel marketing.xml
+H:\Project\multilevel marketing\multilevel marketing\obj\Debug\ResolveAssemblyReference.cache
+H:\Project\multilevel marketing\multilevel marketing\obj\Debug\multilevel_marketing.About_mlm.resources
+H:\Project\multilevel marketing\multilevel marketing\obj\Debug\multilevel_marketing.add_admin.resources
+H:\Project\multilevel marketing\multilevel marketing\obj\Debug\multilevel_marketing.cust_info.resources
+H:\Project\multilevel marketing\multilevel marketing\obj\Debug\multilevel_marketing.cust_pay_info.resources
+H:\Project\multilevel marketing\multilevel marketing\obj\Debug\multilevel_marketing.Form1.resources
+H:\Project\multilevel marketing\multilevel marketing\obj\Debug\multilevel_marketing.Form2.resources
+H:\Project\multilevel marketing\multilevel marketing\obj\Debug\multilevel_marketing.frm_show.resources
+H:\Project\multilevel marketing\multilevel marketing\obj\Debug\multilevel_marketing.Form4.resources
+H:\Project\multilevel marketing\multilevel marketing\obj\Debug\multilevel_marketing.Form7.resources
+H:\Project\multilevel marketing\multilevel marketing\obj\Debug\multilevel_marketing.Resources.resources
+H:\Project\multilevel marketing\multilevel marketing\obj\Debug\multilevel_marketing.set_values.resources
+H:\Project\multilevel marketing\multilevel marketing\obj\Debug\multilevel_marketing.SplashScreen1.resources
+H:\Project\multilevel marketing\multilevel marketing\obj\Debug\multilevel_marketing.update_admin.resources
+H:\Project\multilevel marketing\multilevel marketing\obj\Debug\multilevel marketing.vbproj.GenerateResource.Cache
+D:\vbnetpro\multilevel marketing\multilevel marketing\obj\Debug\multilevel marketing.exe
+D:\vbnetpro\multilevel marketing\multilevel marketing\obj\Debug\multilevel marketing.xml
+D:\vbnetpro\multilevel marketing\multilevel marketing\obj\Debug\multilevel marketing.pdb
+D:\vbnetpro\multilevel marketing\multilevel marketing\bin\Debug\multilevel marketing.exe
+D:\vbnetpro\multilevel marketing\multilevel marketing\bin\Debug\multilevel marketing.pdb
+D:\vbnetpro\multilevel marketing\multilevel marketing\bin\Debug\multilevel marketing.xml
+D:\vbnetpro\multilevel marketing\multilevel marketing\obj\Debug\ResolveAssemblyReference.cache
+D:\vbnetpro\multilevel marketing\multilevel marketing\obj\Debug\multilevel_marketing.About_mlm.resources
+D:\vbnetpro\multilevel marketing\multilevel marketing\obj\Debug\multilevel_marketing.add_admin.resources
+D:\vbnetpro\multilevel marketing\multilevel marketing\obj\Debug\multilevel_marketing.cust_info.resources
+D:\vbnetpro\multilevel marketing\multilevel marketing\obj\Debug\multilevel_marketing.cust_pay_info.resources
+D:\vbnetpro\multilevel marketing\multilevel marketing\obj\Debug\multilevel_marketing.Form1.resources
+D:\vbnetpro\multilevel marketing\multilevel marketing\obj\Debug\multilevel_marketing.Form2.resources
+D:\vbnetpro\multilevel marketing\multilevel marketing\obj\Debug\multilevel_marketing.frm_show.resources
+D:\vbnetpro\multilevel marketing\multilevel marketing\obj\Debug\multilevel_marketing.Form4.resources
+D:\vbnetpro\multilevel marketing\multilevel marketing\obj\Debug\multilevel_marketing.Form7.resources
+D:\vbnetpro\multilevel marketing\multilevel marketing\obj\Debug\multilevel_marketing.Resources.resources
+D:\vbnetpro\multilevel marketing\multilevel marketing\obj\Debug\multilevel_marketing.set_values.resources
+D:\vbnetpro\multilevel marketing\multilevel marketing\obj\Debug\multilevel_marketing.SplashScreen1.resources
+D:\vbnetpro\multilevel marketing\multilevel marketing\obj\Debug\multilevel_marketing.update_admin.resources
+D:\vbnetpro\multilevel marketing\multilevel marketing\obj\Debug\multilevel marketing.vbproj.GenerateResource.Cache
+D:\vbnetpro\multilevel marketing\multilevel marketing\obj\Debug\multilevel_marketing.Threegtre.resources
+D:\vbnetpro\multilevel marketing\multilevel marketing\bin\Debug\multilevel marketing.exe.config
+D:\vbnetpro\multilevel marketing\multilevel marketing\obj\Debug\multilevel_marketing.transtoday.resources
+E:\multilevel marketing\multilevel marketing\bin\Debug\multilevel marketing.exe.config
+E:\multilevel marketing\multilevel marketing\obj\Debug\multilevel marketing.exe
+E:\multilevel marketing\multilevel marketing\obj\Debug\multilevel marketing.xml
+E:\multilevel marketing\multilevel marketing\obj\Debug\multilevel marketing.pdb
+E:\multilevel marketing\multilevel marketing\bin\Debug\multilevel marketing.exe
+E:\multilevel marketing\multilevel marketing\bin\Debug\multilevel marketing.pdb
+E:\multilevel marketing\multilevel marketing\bin\Debug\multilevel marketing.xml
+E:\multilevel marketing\multilevel marketing\obj\Debug\ResolveAssemblyReference.cache
+E:\multilevel marketing\multilevel marketing\obj\Debug\multilevel_marketing.About_mlm.resources
+E:\multilevel marketing\multilevel marketing\obj\Debug\multilevel_marketing.add_admin.resources
+E:\multilevel marketing\multilevel marketing\obj\Debug\multilevel_marketing.cust_info.resources
+E:\multilevel marketing\multilevel marketing\obj\Debug\multilevel_marketing.cust_pay_info.resources
+E:\multilevel marketing\multilevel marketing\obj\Debug\multilevel_marketing.Form1.resources
+E:\multilevel marketing\multilevel marketing\obj\Debug\multilevel_marketing.Form2.resources
+E:\multilevel marketing\multilevel marketing\obj\Debug\multilevel_marketing.frm_show.resources
+E:\multilevel marketing\multilevel marketing\obj\Debug\multilevel_marketing.Form4.resources
+E:\multilevel marketing\multilevel marketing\obj\Debug\multilevel_marketing.Form7.resources
+E:\multilevel marketing\multilevel marketing\obj\Debug\multilevel_marketing.Resources.resources
+E:\multilevel marketing\multilevel marketing\obj\Debug\multilevel_marketing.set_values.resources
+E:\multilevel marketing\multilevel marketing\obj\Debug\multilevel_marketing.SplashScreen1.resources
+E:\multilevel marketing\multilevel marketing\obj\Debug\multilevel_marketing.Threegtre.resources
+E:\multilevel marketing\multilevel marketing\obj\Debug\multilevel_marketing.transtoday.resources
+E:\multilevel marketing\multilevel marketing\obj\Debug\multilevel_marketing.update_admin.resources
+E:\multilevel marketing\multilevel marketing\obj\Debug\multilevel marketing.vbproj.GenerateResource.Cache
+D:\swap\backup_desktop\multilevel marketing\multilevel marketing\bin\Debug\multilevel marketing.exe.config
+D:\swap\backup_desktop\multilevel marketing\multilevel marketing\obj\Debug\multilevel marketing.exe
+D:\swap\backup_desktop\multilevel marketing\multilevel marketing\obj\Debug\multilevel marketing.xml
+D:\swap\backup_desktop\multilevel marketing\multilevel marketing\obj\Debug\multilevel marketing.pdb
+D:\swap\backup_desktop\multilevel marketing\multilevel marketing\bin\Debug\multilevel marketing.exe
+D:\swap\backup_desktop\multilevel marketing\multilevel marketing\bin\Debug\multilevel marketing.pdb
+D:\swap\backup_desktop\multilevel marketing\multilevel marketing\bin\Debug\multilevel marketing.xml
+D:\swap\backup_desktop\multilevel marketing\multilevel marketing\obj\Debug\ResolveAssemblyReference.cache
+D:\swap\backup_desktop\multilevel marketing\multilevel marketing\obj\Debug\multilevel_marketing.About_mlm.resources
+D:\swap\backup_desktop\multilevel marketing\multilevel marketing\obj\Debug\multilevel_marketing.add_admin.resources
+D:\swap\backup_desktop\multilevel marketing\multilevel marketing\obj\Debug\multilevel_marketing.cust_info.resources
+D:\swap\backup_desktop\multilevel marketing\multilevel marketing\obj\Debug\multilevel_marketing.cust_pay_info.resources
+D:\swap\backup_desktop\multilevel marketing\multilevel marketing\obj\Debug\multilevel_marketing.Form1.resources
+D:\swap\backup_desktop\multilevel marketing\multilevel marketing\obj\Debug\multilevel_marketing.Form2.resources
+D:\swap\backup_desktop\multilevel marketing\multilevel marketing\obj\Debug\multilevel_marketing.frm_show.resources
+D:\swap\backup_desktop\multilevel marketing\multilevel marketing\obj\Debug\multilevel_marketing.Form4.resources
+D:\swap\backup_desktop\multilevel marketing\multilevel marketing\obj\Debug\multilevel_marketing.Form7.resources
+D:\swap\backup_desktop\multilevel marketing\multilevel marketing\obj\Debug\multilevel_marketing.Resources.resources
+D:\swap\backup_desktop\multilevel marketing\multilevel marketing\obj\Debug\multilevel_marketing.set_values.resources
+D:\swap\backup_desktop\multilevel marketing\multilevel marketing\obj\Debug\multilevel_marketing.SplashScreen1.resources
+D:\swap\backup_desktop\multilevel marketing\multilevel marketing\obj\Debug\multilevel_marketing.Threegtre.resources
+D:\swap\backup_desktop\multilevel marketing\multilevel marketing\obj\Debug\multilevel_marketing.transtoday.resources
+D:\swap\backup_desktop\multilevel marketing\multilevel marketing\obj\Debug\multilevel_marketing.update_admin.resources
+D:\swap\backup_desktop\multilevel marketing\multilevel marketing\obj\Debug\multilevel marketing.vbproj.GenerateResource.Cache
+D:\D\multilevel marketing\multilevel marketing\bin\Debug\multilevel marketing.exe.config
+D:\D\multilevel marketing\multilevel marketing\obj\Debug\multilevel marketing.exe
+D:\D\multilevel marketing\multilevel marketing\obj\Debug\multilevel marketing.xml
+D:\D\multilevel marketing\multilevel marketing\obj\Debug\multilevel marketing.pdb
+D:\D\multilevel marketing\multilevel marketing\bin\Debug\multilevel marketing.exe
+D:\D\multilevel marketing\multilevel marketing\bin\Debug\multilevel marketing.pdb
+D:\D\multilevel marketing\multilevel marketing\bin\Debug\multilevel marketing.xml
+D:\D\multilevel marketing\multilevel marketing\obj\Debug\ResolveAssemblyReference.cache
+D:\D\multilevel marketing\multilevel marketing\obj\Debug\multilevel_marketing.About_mlm.resources
+D:\D\multilevel marketing\multilevel marketing\obj\Debug\multilevel_marketing.add_admin.resources
+D:\D\multilevel marketing\multilevel marketing\obj\Debug\multilevel_marketing.cust_info.resources
+D:\D\multilevel marketing\multilevel marketing\obj\Debug\multilevel_marketing.cust_pay_info.resources
+D:\D\multilevel marketing\multilevel marketing\obj\Debug\multilevel_marketing.Form1.resources
+D:\D\multilevel marketing\multilevel marketing\obj\Debug\multilevel_marketing.Form2.resources
+D:\D\multilevel marketing\multilevel marketing\obj\Debug\multilevel_marketing.frm_show.resources
+D:\D\multilevel marketing\multilevel marketing\obj\Debug\multilevel_marketing.Form4.resources
+D:\D\multilevel marketing\multilevel marketing\obj\Debug\multilevel_marketing.Form7.resources
+D:\D\multilevel marketing\multilevel marketing\obj\Debug\multilevel_marketing.Resources.resources
+D:\D\multilevel marketing\multilevel marketing\obj\Debug\multilevel_marketing.set_values.resources
+D:\D\multilevel marketing\multilevel marketing\obj\Debug\multilevel_marketing.SplashScreen1.resources
+D:\D\multilevel marketing\multilevel marketing\obj\Debug\multilevel_marketing.Threegtre.resources
+D:\D\multilevel marketing\multilevel marketing\obj\Debug\multilevel_marketing.transtoday.resources
+D:\D\multilevel marketing\multilevel marketing\obj\Debug\multilevel_marketing.update_admin.resources
+D:\D\multilevel marketing\multilevel marketing\obj\Debug\multilevel marketing.vbproj.GenerateResource.Cache
